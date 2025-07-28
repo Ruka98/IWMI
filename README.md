@@ -21,5 +21,4 @@ The repository includes three distinct methods for delineating command areas:
 - Identifies **all possible downslope areas** where water can naturally drain.
 - Suitable for identifying maximum potential command areas.
 
-## 📁 Folder Structure
 
