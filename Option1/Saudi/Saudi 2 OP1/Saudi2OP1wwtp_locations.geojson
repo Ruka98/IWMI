@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "OP2wwtp_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Manfouha Riyadh North" }, "geometry": { "type": "Point", "coordinates": [ 47.284774051655099, 23.915398091873602 ] } },
+{ "type": "Feature", "properties": { "name": "Manfouha-Riyadh (South C2) " }, "geometry": { "type": "Point", "coordinates": [ 50.2103410688662, 26.2491096413493 ] } },
+{ "type": "Feature", "properties": { "name": "Manfouha-Riyadh (South C3) " }, "geometry": { "type": "Point", "coordinates": [ 49.972490415166803, 26.540270156772699 ] } },
+{ "type": "Feature", "properties": { "name": "Manfouha Riyadh East" }, "geometry": { "type": "Point", "coordinates": [ 50.162652334955297, 26.30999739044 ] } },
+{ "type": "Feature", "properties": { "name": "Manfouha-Riyadh (C4)" }, "geometry": { "type": "Point", "coordinates": [ 50.162704628079098, 26.309930584959002 ] } },
+{ "type": "Feature", "properties": { "name": "Hayer-Riyadh (I)" }, "geometry": { "type": "Point", "coordinates": [ 48.468861711791398, 28.4630805758798 ] } },
+{ "type": "Feature", "properties": { "name": "Al Heet/AlkharJ (I)" }, "geometry": { "type": "Point", "coordinates": [ 49.116296514816099, 27.521114466625399 ] } },
+{ "type": "Feature", "properties": { "name": "Al Heet/AlkharJ (II)" }, "geometry": { "type": "Point", "coordinates": [ 49.656905986375698, 25.360943781720199 ] } },
+{ "type": "Feature", "properties": { "name": "Al Heet/AlkharJ (III)" }, "geometry": { "type": "Point", "coordinates": [ 49.756217908554298, 25.431311451355601 ] } },
+{ "type": "Feature", "properties": { "name": "Refinery-Riyadh" }, "geometry": { "type": "Point", "coordinates": [ 49.610174743386303, 25.5919725368428 ] } },
+{ "type": "Feature", "properties": { "name": "King Saud's University " }, "geometry": { "type": "Point", "coordinates": [ 49.0076071556025, 27.152040802096501 ] } }
+]
+}

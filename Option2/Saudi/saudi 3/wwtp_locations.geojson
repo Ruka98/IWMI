@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "wwtp_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Khamis Mushait ", "id": 59, "elevation": 1969.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.720736591924101, 18.399978915249001 ] } },
+{ "type": "Feature", "properties": { "name": "Abha", "id": 60, "elevation": 2188.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.521982269706598, 18.233462446236501 ] } },
+{ "type": "Feature", "properties": { "name": "Abu Arish ", "id": 68, "elevation": 159.0001220703125, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.943581505460998, 16.985244083698799 ] } },
+{ "type": "Feature", "properties": { "name": "Jizan", "id": 69, "elevation": 6.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.675747863857701, 16.786915774010399 ] } },
+{ "type": "Feature", "properties": { "name": "Sabia", "id": 70, "elevation": 82.000068664550781, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.782733570498699, 17.183396037178898 ] } },
+{ "type": "Feature", "properties": { "name": "Samtah ", "id": 71, "elevation": 60.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.9356860991874, 16.603211615727702 ] } },
+{ "type": "Feature", "properties": { "name": "Baish", "id": 72, "elevation": 133.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.535129351519402, 17.498317663987901 ] } },
+{ "type": "Feature", "properties": { "name": "JAZAN ECONOMIC CITY", "id": 73, "elevation": 18.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 42.379712649192101, 17.315750850703498 ] } },
+{ "type": "Feature", "properties": { "name": "Sharoura ", "id": 74, "elevation": 723.00201416015625, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 46.9615112353125, 17.551348012257101 ] } },
+{ "type": "Feature", "properties": { "name": "Najran", "id": 75, "elevation": 1245.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 44.379054511544801, 17.618444053475599 ] } }
+]
+}

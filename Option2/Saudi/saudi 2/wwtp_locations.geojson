@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "wwtp_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Al Kharj Industrial City", "id": 15, "elevation": 484.0006103515625, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 47.284774051655099, 23.915398091873602 ] } },
+{ "type": "Feature", "properties": { "name": "Al-Khobar", "id": 49, "elevation": 5.0004205703735352, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 50.2103410688662, 26.2491096413493 ] } },
+{ "type": "Feature", "properties": { "name": "Qatif ", "id": 50, "elevation": 14.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.972490415166803, 26.540270156772699 ] } },
+{ "type": "Feature", "properties": { "name": "South Dhahran ", "id": 51, "elevation": 33.000091552734375, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 50.162652334955297, 26.30999739044 ] } },
+{ "type": "Feature", "properties": { "name": "North Dhahran ", "id": 52, "elevation": 33.000091552734375, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 50.162704628079098, 26.309930584959002 ] } },
+{ "type": "Feature", "properties": { "name": "Al Khafji ", "id": 53, "elevation": 3.0134766101837158, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 48.468861711791398, 28.4630805758798 ] } },
+{ "type": "Feature", "properties": { "name": "Ras Al-Khair", "id": 54, "elevation": 3.0000948905944824, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.116296514816099, 27.521114466625399 ] } },
+{ "type": "Feature", "properties": { "name": "Hofouf", "id": 55, "elevation": 141.0003662109375, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.656905986375698, 25.360943781720199 ] } },
+{ "type": "Feature", "properties": { "name": "Al-Omran", "id": 56, "elevation": 124.00054931640625, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.756217908554298, 25.431311451355601 ] } },
+{ "type": "Feature", "properties": { "name": "Al-Ayoun", "id": 57, "elevation": 114.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.610174743386303, 25.5919725368428 ] } },
+{ "type": "Feature", "properties": { "name": "Fadhili Bachelors Camp STP", "id": 58, "elevation": 25.0, "inflow": "100.0,100.0" }, "geometry": { "type": "Point", "coordinates": [ 49.0076071556025, 27.152040802096501 ] } }
+]
+}
