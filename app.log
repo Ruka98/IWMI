@@ -1,0 +1,235 @@
+2025-06-23 08:57:25,300 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-23 08:57:25,300 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-23 08:57:50,901 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-23 08:57:50,901 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:29:24,012 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:29:24,012 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:30:43,099 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:30:43,099 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:33:42,768 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:33:42,768 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:35:52,650 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:35:52,650 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:36:17,367 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:36:17,367 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:38:17,369 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:38:17,369 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:39:20,653 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:39:20,653 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:41:21,478 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:41:21,479 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 10:42:01,468 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 10:42:01,468 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 11:01:50,979 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 11:01:50,980 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 11:02:14,975 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 11:02:14,975 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 11:02:29,067 - INFO - Starting NetCDF creation...
+2025-06-24 11:02:29,067 - INFO - Error: All input paths must be provided
+2025-06-24 11:06:28,275 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 11:06:28,275 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 11:06:49,930 - INFO - Starting NetCDF creation...
+2025-06-24 11:06:49,930 - INFO - Error: All input paths must be provided
+2025-06-24 11:13:13,185 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 11:13:13,186 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 11:17:34,890 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 11:17:34,890 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 12:22:58,689 - INFO - Starting NetCDF creation...
+2025-06-24 12:22:58,717 - INFO - Found 2560 TIFF files to process across 9 datasets
+2025-06-24 12:22:58,718 - INFO - Processing 72 files for P...
+2025-06-24 12:22:59,096 - INFO - Error creating Awash_P_CHIRPS.nc: numpy.core.multiarray failed to import
+2025-06-24 12:23:10,098 - INFO - Starting NetCDF creation...
+2025-06-24 12:23:10,107 - INFO - Found 2560 TIFF files to process across 9 datasets
+2025-06-24 12:23:10,107 - INFO - Processing 72 files for P...
+2025-06-24 12:23:10,176 - INFO - Error creating Awash_P_CHIRPS.nc: numpy.core.multiarray failed to import
+2025-06-24 12:24:22,815 - INFO - Starting NetCDF creation...
+2025-06-24 12:24:22,825 - INFO - Found 2560 TIFF files to process across 9 datasets
+2025-06-24 12:24:22,826 - INFO - Processing 72 files for P...
+2025-06-24 12:24:22,893 - INFO - Error creating Awash_P_CHIRPS.nc: numpy.core.multiarray failed to import
+2025-06-24 12:24:44,358 - INFO - Starting NetCDF creation...
+2025-06-24 12:24:44,367 - INFO - Found 2560 TIFF files to process across 9 datasets
+2025-06-24 12:24:44,368 - INFO - Processing 72 files for P...
+2025-06-24 12:24:44,433 - INFO - Error creating Awash_P_CHIRPS.nc: numpy.core.multiarray failed to import
+2025-06-24 12:29:22,067 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-06-24 12:29:22,067 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-06-24 12:30:41,305 - INFO - Starting NetCDF creation...
+2025-06-24 12:30:41,313 - INFO - Found 2560 TIFF files to process across 9 datasets
+2025-06-24 12:30:41,314 - INFO - Processing 72 files for P...
+2025-06-24 12:30:45,691 - INFO - Successfully created Awash_P_CHIRPS.nc
+2025-06-24 12:30:45,696 - INFO - Processing 2192 files for dailyP...
+2025-06-24 12:32:24,630 - INFO - Successfully created Awash_dailyP_CHIRPS.nc
+2025-06-24 12:32:24,632 - INFO - Processing 72 files for ET...
+2025-06-24 12:32:29,640 - INFO - Successfully created Awash_ETa_V6.nc
+2025-06-24 12:32:29,641 - INFO - Processing 72 files for LAI...
+2025-06-24 12:32:39,256 - INFO - Successfully created Awash_LAI_MOD15.nc
+2025-06-24 12:32:39,257 - INFO - Processing 1 files for SMsat...
+2025-06-24 12:32:39,322 - INFO - Successfully created Awash_SMsat_HiHydroSoils.nc
+2025-06-24 12:32:39,323 - INFO - Processing 1 files for Ari...
+2025-06-24 12:32:39,371 - INFO - Successfully created Awash_Aridity_CHIRPS_GLEAM.nc
+2025-06-24 12:32:39,372 - INFO - Processing 6 files for LU...
+2025-06-24 12:32:39,854 - INFO - Successfully created Awash_LU_WA.nc
+2025-06-24 12:32:39,855 - INFO - Processing 72 files for ProbaV...
+2025-06-24 12:32:44,054 - INFO - Successfully created Awash_NDM_ProbaV.nc
+2025-06-24 12:32:44,055 - INFO - Processing 72 files for ETref...
+2025-06-24 12:32:46,875 - INFO - Successfully created Awash_ETref_L1_RET.nc
+2025-06-24 12:32:46,875 - INFO - NetCDF creation completed.
+2025-06-24 12:32:46,880 - INFO - Starting rainfall interception processing...
+2025-06-24 12:32:50,022 - INFO - Rainfall interception processing completed.
+2025-06-24 12:34:46,606 - INFO - Soil moisture balance calculation completed.
+2025-06-24 12:34:46,611 - INFO - File Awash_Aridity_CHIRPS_GLEAM.nc: time dimension = 1
+2025-06-24 12:34:46,617 - INFO - File Awash_dailyP_CHIRPS.nc: time dimension = 2192
+2025-06-24 12:34:46,622 - INFO - File Awash_ETa_V6.nc: time dimension = 72
+2025-06-24 12:34:46,626 - INFO - File Awash_ETref_L1_RET.nc: time dimension = 72
+2025-06-24 12:34:46,630 - INFO - File Awash_LAI_MOD15.nc: time dimension = 72
+2025-06-24 12:34:46,633 - INFO - File Awash_LU_WA.nc: time dimension = 6
+2025-06-24 12:34:46,637 - INFO - File Awash_NDM_ProbaV.nc: time dimension = 72
+2025-06-24 12:34:46,641 - INFO - File Awash_P_CHIRPS.nc: time dimension = 72
+2025-06-24 12:34:46,645 - INFO - File Awash_SMsat_HiHydroSoils.nc: time dimension = 1
+2025-06-24 12:34:46,648 - INFO - File bf_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,652 - INFO - File d_perco_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,655 - INFO - File d_sro_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,659 - INFO - File eta_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,664 - INFO - File etincr_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,668 - INFO - File etrain_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,672 - INFO - File gw_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,677 - INFO - File i_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,680 - INFO - File nRD_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,685 - INFO - File perco_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,689 - INFO - File sm_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,693 - INFO - File sro_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,698 - INFO - File supply_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,702 - INFO - File tf_monthly.nc: time dimension = 72
+2025-06-24 12:34:46,702 - INFO - Table data keys: ['q_in_sw', 'q_outflow', 'q_in_desal']
+2025-06-24 12:34:46,702 - INFO - Initializing Hydroloop with metadata: basin_name=Inicomati, hydro_year=A-OCT
+2025-06-24 12:34:48,566 - INFO - BASIN ts_data keys: ['q_in_sw', 'q_in_gw', 'q_in_desal', 'q_outflow', 'q_out_sw', 'q_out_gw', 'dS_sw']
+2025-06-24 12:34:48,566 - INFO - Hydroloop initialized successfully.
+2025-06-24 12:34:48,576 - INFO - Starting resample_lu
+2025-06-24 12:34:53,076 - INFO - Completed resample_lu
+2025-06-24 12:34:53,077 - INFO - Starting split_et
+2025-06-24 12:34:59,071 - INFO - Completed split_et
+2025-06-24 12:34:59,071 - INFO - Starting split_supply
+2025-06-24 12:35:17,885 - INFO - Completed split_supply
+2025-06-24 12:35:17,886 - INFO - Starting calc_demand
+2025-06-24 12:35:22,937 - INFO - Completed calc_demand
+2025-06-24 12:35:22,938 - INFO - Starting calc_return
+2025-06-24 12:35:54,400 - INFO - Completed calc_return
+2025-06-24 12:35:54,401 - INFO - Starting calc_residential_supply
+2025-06-24 12:36:01,815 - INFO - Completed calc_residential_supply
+2025-06-24 12:36:01,815 - INFO - Starting calc_total_supply
+2025-06-24 12:36:56,519 - INFO - Completed calc_total_supply
+2025-06-24 12:36:56,519 - INFO - Starting calc_fraction
+2025-06-24 12:37:02,650 - INFO - Completed calc_fraction
+2025-06-24 12:37:02,651 - INFO - Starting calc_time_series
+2025-06-24 12:37:05,050 - INFO - Completed calc_time_series
+2025-06-24 12:37:05,051 - INFO - Starting finalize_hydroloop_outputs
+2025-06-24 12:37:06,613 - INFO - Completed finalize_hydroloop_outputs
+2025-06-24 12:37:06,614 - INFO - Hydroloop processing completed successfully.
+2025-06-24 12:37:06,622 - INFO - Generating Sheet 1 CSVs...
+2025-06-24 12:37:24,447 - INFO - Generated 5 yearly sheet CSVs for Sheet 1
+2025-06-24 12:37:26,011 - INFO - Generating Sheet 1 PDFs...
+2025-06-24 12:37:26,129 - WARNING - Can't handle color: url(#fill0-3)
+2025-06-24 12:37:26,132 - WARNING - Can't handle color: url(#fill1-2)
+2025-06-24 12:37:27,003 - INFO - Generated Sheet 1 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet1\yearly\sheet1_2016.pdf
+2025-06-24 12:37:27,044 - WARNING - Can't handle color: url(#fill0-3)
+2025-06-24 12:37:27,046 - WARNING - Can't handle color: url(#fill1-2)
+2025-06-24 12:37:27,929 - INFO - Generated Sheet 1 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet1\yearly\sheet1_2017.pdf
+2025-06-24 12:37:27,973 - WARNING - Can't handle color: url(#fill0-3)
+2025-06-24 12:37:27,974 - WARNING - Can't handle color: url(#fill1-2)
+2025-06-24 12:37:28,865 - INFO - Generated Sheet 1 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet1\yearly\sheet1_2018.pdf
+2025-06-24 12:37:28,908 - WARNING - Can't handle color: url(#fill0-3)
+2025-06-24 12:37:28,910 - WARNING - Can't handle color: url(#fill1-2)
+2025-06-24 12:37:29,754 - INFO - Generated Sheet 1 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet1\yearly\sheet1_2019.pdf
+2025-06-24 12:37:29,795 - WARNING - Can't handle color: url(#fill0-3)
+2025-06-24 12:37:29,798 - WARNING - Can't handle color: url(#fill1-2)
+2025-06-24 12:37:30,685 - INFO - Generated Sheet 1 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet1\yearly\sheet1_2020.pdf
+2025-06-24 12:37:30,687 - INFO - Generating Sheet 2 CSVs...
+2025-06-24 12:41:41,293 - INFO - Generated 5 yearly sheet CSVs for Sheet 2
+2025-06-24 12:41:42,850 - INFO - Generating Sheet 2 PDFs...
+2025-06-24 12:41:42,913 - WARNING - Can't handle color: url(#linearGradient4913)
+2025-06-24 12:41:42,913 - WARNING - Can't handle color: url(#linearGradient4905)
+2025-06-24 12:41:42,913 - WARNING - Can't handle color: url(#linearGradient4897)
+2025-06-24 12:41:42,914 - WARNING - Unable to find a clipping path with id clipPath3350
+2025-06-24 12:41:42,914 - WARNING - Unable to find a clipping path with id clipPath3358
+2025-06-24 12:41:42,914 - WARNING - Unable to find a clipping path with id clipPath3426
+2025-06-24 12:41:42,915 - WARNING - Unable to find a clipping path with id clipPath3434
+2025-06-24 12:41:42,917 - WARNING - Unable to find a clipping path with id clipPath3520
+2025-06-24 12:41:42,917 - WARNING - Unable to find a clipping path with id clipPath3528
+2025-06-24 12:41:42,919 - WARNING - Unable to find a clipping path with id clipPath3566
+2025-06-24 12:41:42,919 - WARNING - Unable to find a clipping path with id clipPath3574
+2025-06-24 12:41:42,920 - WARNING - Unable to find a clipping path with id clipPath3646
+2025-06-24 12:41:42,920 - WARNING - Unable to find a clipping path with id clipPath3654
+2025-06-24 12:41:42,921 - WARNING - Unable to find a clipping path with id clipPath3674
+2025-06-24 12:41:42,921 - WARNING - Unable to find a clipping path with id clipPath3682
+2025-06-24 12:41:47,231 - INFO - Generated Sheet 2 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet2\yearly\sheet2_2016.pdf
+2025-06-24 12:41:47,285 - WARNING - Can't handle color: url(#linearGradient4913)
+2025-06-24 12:41:47,285 - WARNING - Can't handle color: url(#linearGradient4905)
+2025-06-24 12:41:47,286 - WARNING - Can't handle color: url(#linearGradient4897)
+2025-06-24 12:41:47,286 - WARNING - Unable to find a clipping path with id clipPath3350
+2025-06-24 12:41:47,286 - WARNING - Unable to find a clipping path with id clipPath3358
+2025-06-24 12:41:47,287 - WARNING - Unable to find a clipping path with id clipPath3426
+2025-06-24 12:41:47,287 - WARNING - Unable to find a clipping path with id clipPath3434
+2025-06-24 12:41:47,289 - WARNING - Unable to find a clipping path with id clipPath3520
+2025-06-24 12:41:47,289 - WARNING - Unable to find a clipping path with id clipPath3528
+2025-06-24 12:41:47,290 - WARNING - Unable to find a clipping path with id clipPath3566
+2025-06-24 12:41:47,290 - WARNING - Unable to find a clipping path with id clipPath3574
+2025-06-24 12:41:47,291 - WARNING - Unable to find a clipping path with id clipPath3646
+2025-06-24 12:41:47,291 - WARNING - Unable to find a clipping path with id clipPath3654
+2025-06-24 12:41:47,292 - WARNING - Unable to find a clipping path with id clipPath3674
+2025-06-24 12:41:47,292 - WARNING - Unable to find a clipping path with id clipPath3682
+2025-06-24 12:41:51,601 - INFO - Generated Sheet 2 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet2\yearly\sheet2_2017.pdf
+2025-06-24 12:41:51,653 - WARNING - Can't handle color: url(#linearGradient4913)
+2025-06-24 12:41:51,653 - WARNING - Can't handle color: url(#linearGradient4905)
+2025-06-24 12:41:51,654 - WARNING - Can't handle color: url(#linearGradient4897)
+2025-06-24 12:41:51,654 - WARNING - Unable to find a clipping path with id clipPath3350
+2025-06-24 12:41:51,654 - WARNING - Unable to find a clipping path with id clipPath3358
+2025-06-24 12:41:51,655 - WARNING - Unable to find a clipping path with id clipPath3426
+2025-06-24 12:41:51,655 - WARNING - Unable to find a clipping path with id clipPath3434
+2025-06-24 12:41:51,657 - WARNING - Unable to find a clipping path with id clipPath3520
+2025-06-24 12:41:51,657 - WARNING - Unable to find a clipping path with id clipPath3528
+2025-06-24 12:41:51,659 - WARNING - Unable to find a clipping path with id clipPath3566
+2025-06-24 12:41:51,659 - WARNING - Unable to find a clipping path with id clipPath3574
+2025-06-24 12:41:51,659 - WARNING - Unable to find a clipping path with id clipPath3646
+2025-06-24 12:41:51,660 - WARNING - Unable to find a clipping path with id clipPath3654
+2025-06-24 12:41:51,660 - WARNING - Unable to find a clipping path with id clipPath3674
+2025-06-24 12:41:51,661 - WARNING - Unable to find a clipping path with id clipPath3682
+2025-06-24 12:41:55,973 - INFO - Generated Sheet 2 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet2\yearly\sheet2_2018.pdf
+2025-06-24 12:41:56,028 - WARNING - Can't handle color: url(#linearGradient4913)
+2025-06-24 12:41:56,028 - WARNING - Can't handle color: url(#linearGradient4905)
+2025-06-24 12:41:56,029 - WARNING - Can't handle color: url(#linearGradient4897)
+2025-06-24 12:41:56,029 - WARNING - Unable to find a clipping path with id clipPath3350
+2025-06-24 12:41:56,029 - WARNING - Unable to find a clipping path with id clipPath3358
+2025-06-24 12:41:56,030 - WARNING - Unable to find a clipping path with id clipPath3426
+2025-06-24 12:41:56,030 - WARNING - Unable to find a clipping path with id clipPath3434
+2025-06-24 12:41:56,031 - WARNING - Unable to find a clipping path with id clipPath3520
+2025-06-24 12:41:56,031 - WARNING - Unable to find a clipping path with id clipPath3528
+2025-06-24 12:41:56,033 - WARNING - Unable to find a clipping path with id clipPath3566
+2025-06-24 12:41:56,033 - WARNING - Unable to find a clipping path with id clipPath3574
+2025-06-24 12:41:56,034 - WARNING - Unable to find a clipping path with id clipPath3646
+2025-06-24 12:41:56,034 - WARNING - Unable to find a clipping path with id clipPath3654
+2025-06-24 12:41:56,035 - WARNING - Unable to find a clipping path with id clipPath3674
+2025-06-24 12:41:56,035 - WARNING - Unable to find a clipping path with id clipPath3682
+2025-06-24 12:42:00,320 - INFO - Generated Sheet 2 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet2\yearly\sheet2_2019.pdf
+2025-06-24 12:42:00,371 - WARNING - Can't handle color: url(#linearGradient4913)
+2025-06-24 12:42:00,372 - WARNING - Can't handle color: url(#linearGradient4905)
+2025-06-24 12:42:00,373 - WARNING - Can't handle color: url(#linearGradient4897)
+2025-06-24 12:42:00,373 - WARNING - Unable to find a clipping path with id clipPath3350
+2025-06-24 12:42:00,374 - WARNING - Unable to find a clipping path with id clipPath3358
+2025-06-24 12:42:00,374 - WARNING - Unable to find a clipping path with id clipPath3426
+2025-06-24 12:42:00,374 - WARNING - Unable to find a clipping path with id clipPath3434
+2025-06-24 12:42:00,376 - WARNING - Unable to find a clipping path with id clipPath3520
+2025-06-24 12:42:00,376 - WARNING - Unable to find a clipping path with id clipPath3528
+2025-06-24 12:42:00,378 - WARNING - Unable to find a clipping path with id clipPath3566
+2025-06-24 12:42:00,378 - WARNING - Unable to find a clipping path with id clipPath3574
+2025-06-24 12:42:00,379 - WARNING - Unable to find a clipping path with id clipPath3646
+2025-06-24 12:42:00,379 - WARNING - Unable to find a clipping path with id clipPath3654
+2025-06-24 12:42:00,379 - WARNING - Unable to find a clipping path with id clipPath3674
+2025-06-24 12:42:00,380 - WARNING - Unable to find a clipping path with id clipPath3682
+2025-06-24 12:42:04,728 - INFO - Generated Sheet 2 PDF: D:/Consultant/WA+/WA new/Inicomati/Results\csv\sheet2\yearly\sheet2_2020.pdf
+2025-07-01 09:51:26,502 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-07-01 09:51:26,502 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-07-09 08:21:12,907 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-07-09 08:21:12,907 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-07-09 17:10:44,547 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-07-09 17:10:44,548 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
+2025-07-28 09:38:41,203 - INFO - GDAL_DATA set to: D:\Consultant\WA+\WA new\gdal-data
+2025-07-28 09:38:41,203 - INFO - PROJ_LIB set to: D:\Consultant\WA+\WA new\proj-data
