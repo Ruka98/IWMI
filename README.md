@@ -39,7 +39,7 @@ Some of the projects uploaded include:
 ## 👤 Author
 
 **Kavindu Rukmal**  
-[kavindurukmal@gmail.com
+[kavindurukmal@gmail.com]
 
 ---
 
